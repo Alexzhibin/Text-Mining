@@ -44,12 +44,12 @@
                                    
     
 #2. [Vectoring Average](https://github.com/Alexzhibin/Text-Mining/blob/master/Get_averge_Word2vec.ipynb)(Word2Vec)
-  (1)Conver the words to vectors using the Word2Vec algorithm, which is developed by Google. The more words trained, the higher accuracy the model is.
-  (2)Train the model (1000 features, min 50 words, context = 10)
-  (3)Get the average of vectors of each opinion. The vectors will be the similarities of words in each opinion.
-  (4)After the average, the data set will 1000 features 
-  (5)data frame(8090,1000) 
-  (6)Algorithm and Results(Accuracy of All):
+  (1)Conver the words to vectors using the Word2Vec algorithm, which is developed by Google. The more words trained, the higher accuracy the model is.<br />
+  (2)Train the model (1000 features, min 50 words, context = 10)<br />
+  (3)Get the average of vectors of each opinion. The vectors will be the similarities of words in each opinion.<br />
+  (4)After the average, the data set will 1000 features <br />
+  (5)data frame(8090,1000) <br />
+  (6)Algorithm and Results(Accuracy of All): <br />
    a. RandomForest  testing      1000 features   52.93%
                     training     1000 features   99.86%
                     
