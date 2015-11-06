@@ -51,21 +51,21 @@
   (5)data frame(8090,1000) <br />
   (6)Algorithm and Results(Accuracy of All): 
   ```
-   a. RandomForest  testing      1000 features   52.93%
-                    training     1000 features   99.86%
+  a. RandomForest  testing      1000 features   52.93%
+                   training     1000 features   99.86%
   ```
                     
 #3. [Kmeans](https://github.com/Alexzhibin/Text-Mining/blob/master/KMeans-Word2vec.ipynb)(Word2Vec)
-  (1)Conver the words to vectors using the Word2Vec algorithm, which is developed by Google. The more words trained, the higher accuracy the model is.
-  (2)Train the model (800 features, min 50 words, context = 10)
-  (3)Kmeans. Cluster 5 words in average in per cluster. (1509 clusters)
-  (4)Map the centeroid, which means mark each word an index of centeroid.
-  (5)data frame(8090, 1509)
+  (1)Conver the words to vectors using the Word2Vec algorithm, which is developed by Google. The more words trained, the higher accuracy the model is.<br />
+  (2)Train the model (800 features, min 50 words, context = 10)<br />
+  (3)Kmeans. Cluster 5 words in average in per cluster. (1509 clusters)<br />
+  (4)Map the centeroid, which means mark each word an index of centeroid.<br />
+  (5)data frame(8090, 1509)<br />
   (6)Algorithm and Results(Accuracy of All):
+  ```
    a. RandomForest     testing      50.42% 
                        training     99.86%
-    
-    
+  ```
     
     
   
