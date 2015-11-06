@@ -24,10 +24,11 @@
   
   
 #1. TF-IDF 
-  (1)Conver the words to vectors.(word count) The maximum 5000 words.
-  (2)TF-IDF will make 20000 features based on 5000 words and n-gram range would be (1 ~ 3).
-  (3)Reduce the dimensions to 10000 depending on the chi-squre test. 
-  (4)Algorithm and Results(Accuracy of All): 
+  (1)Conver the words to vectors.(word count) The maximum 5000 words.<br />
+  (2)TF-IDF will make 20000 features based on 5000 words and n-gram range would be (1 ~ 3).<br />
+  (3)Reduce the dimensions to 10000 depending on the chi-squre test. <br />
+  (4)Algorithm and Results(Accuracy of All): <br />
+  
     a. NB  testing       7000 features            10000 features
                             55.7%                     55.84%
        NB  training      7000 features            10000 features
