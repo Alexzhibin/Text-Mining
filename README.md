@@ -14,6 +14,7 @@
   [Y_test](https://github.com/Alexzhibin/Text-Mining/blob/master/y_trend_1.csv)
   Y_train : article['trend'] or training_y['trend']
   <br />
+  <br />
   X: X will be processed with 3 different methods in the following. 
 
 
