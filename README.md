@@ -4,6 +4,7 @@
   Time: 10/08/2014 - 10/08/2015 <br />
   [Training Data](https://github.com/Alexzhibin/Text-Mining/blob/master/train_trend_1.csv): 70% <br />
   [Testing Data](https://github.com/Alexzhibin/Text-Mining/blob/master/test_trend_1.csv): 30%<br />
+  <br />
   Company: Apple Company<br />
   <br />
   Y: 
