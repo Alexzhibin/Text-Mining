@@ -50,6 +50,7 @@
   (4)After the average, the data set will 1000 features <br />
   (5)data frame(8090,1000) <br />
   (6)Algorithm and Results(Accuracy of All): <br />
+  
    a. RandomForest  testing      1000 features   52.93%
                     training     1000 features   99.86%
                     
