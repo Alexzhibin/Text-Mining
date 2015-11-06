@@ -49,10 +49,11 @@
   (3)Get the average of vectors of each opinion. The vectors will be the similarities of words in each opinion.<br />
   (4)After the average, the data set will 1000 features <br />
   (5)data frame(8090,1000) <br />
-  (6)Algorithm and Results(Accuracy of All): <br />
-  
+  (6)Algorithm and Results(Accuracy of All): 
+  ```
    a. RandomForest  testing      1000 features   52.93%
                     training     1000 features   99.86%
+  ```
                     
 #3. [Kmeans](https://github.com/Alexzhibin/Text-Mining/blob/master/KMeans-Word2vec.ipynb)(Word2Vec)
   (1)Conver the words to vectors using the Word2Vec algorithm, which is developed by Google. The more words trained, the higher accuracy the model is.
