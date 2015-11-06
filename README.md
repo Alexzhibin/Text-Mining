@@ -1,11 +1,11 @@
 # Text-Mining
   We use opinions of 7 different websites to predict negative or possitive return of Apple Stock price(0/1).
   
-  Time: 10/08/2014 - 10/08/2015 
-  [Training Data](https://github.com/Alexzhibin/Text-Mining/blob/master/train_trend_1.csv): 70% 
-  [Testing Data](https://github.com/Alexzhibin/Text-Mining/blob/master/test_trend_1.csv): 30%
-  Company: Apple Company
-  Y: If the return is possitive, then Y=1, If the return is negative, then Y=0. The return means the stock price of day2-stock price in day1.
+  Time: 10/08/2014 - 10/08/2015 <br />
+  [Training Data](https://github.com/Alexzhibin/Text-Mining/blob/master/train_trend_1.csv): 70% <br />
+  [Testing Data](https://github.com/Alexzhibin/Text-Mining/blob/master/test_trend_1.csv): 30%<br />
+  Company: Apple Company<br />
+  Y: If the return is possitive, then Y=1, If the return is negative, then Y=0. The return means the stock price of day2-stock price in day1.<br />
   [Y_test](https://github.com/Alexzhibin/Text-Mining/blob/master/y_trend_1.csv)
   Y_train
   ```
