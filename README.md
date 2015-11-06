@@ -64,7 +64,7 @@
   (6)Algorithm and Results(Accuracy of All):
   ```
   a. RandomForest     testing      50.42% 
-                       training     99.86%
+                      training     99.86%
   ```
     
     
