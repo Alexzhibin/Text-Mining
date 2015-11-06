@@ -19,7 +19,7 @@
 
 
 # Cleaning data
-  The [KaggleWord2VecUtility.py](https://github.com/Alexzhibin/Text-Mining/blob/master/KaggleWord2VecUtility.py)will clean the data. 
+  The [KaggleWord2VecUtility.py](https://github.com/Alexzhibin/Text-Mining/blob/master/KaggleWord2VecUtility.py)will clean the data. <br />
   (1)Remove HTML. <br />(2)Remove non-letters.<br /> (3)lower case and split them.<br /> (4)remove stop words.<br /> (5)PorterStemmer. <br />
   
   
