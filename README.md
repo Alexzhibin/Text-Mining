@@ -5,14 +5,12 @@
   [Training Data](https://github.com/Alexzhibin/Text-Mining/blob/master/train_trend_1.csv): 70% <br />
   [Testing Data](https://github.com/Alexzhibin/Text-Mining/blob/master/test_trend_1.csv): 30%<br />
   Company: Apple Company<br />
-  Y: If the return is possitive, then Y=1, If the return is negative, then Y=0. The return means the stock price of day2-stock price in day1.<br />
+  <br />
+  Y: If the return is possitive, then Y=1, If the return is negative, then Y=0. The return means the stock price of day2-stock price in day1.
+  <br />
   [Y_test](https://github.com/Alexzhibin/Text-Mining/blob/master/y_trend_1.csv)
-  Y_train
-  ```
-  article['trend']
-  or
-  training_y['trend']
-  ```
+  Y_train : article['trend'] or training_y['trend']
+  <br />
   X: X will be processed with 3 different methods in the following. 
 
 
