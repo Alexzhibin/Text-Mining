@@ -63,7 +63,7 @@
   (5)data frame(8090, 1509)<br />
   (6)Algorithm and Results(Accuracy of All):
   ```
-   a. RandomForest     testing      50.42% 
+  a. RandomForest     testing      50.42% 
                        training     99.86%
   ```
     
