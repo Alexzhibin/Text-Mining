@@ -11,7 +11,7 @@
     If the return is possitive, then Y=1.If the return is negative, then Y=0. <br />
     The return means the stock price of day2-stock price in day1.
   <br />
-  [Y_test](https://github.com/Alexzhibin/Text-Mining/blob/master/y_trend_1.csv)
+  [Y_test](https://github.com/Alexzhibin/Text-Mining/blob/master/y_trend_1.csv)<br />
   Y_train : article['trend'] or training_y['trend']
   <br />
   <br />
